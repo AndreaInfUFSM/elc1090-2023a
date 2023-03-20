@@ -23,87 +23,119 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 
 # Dinâmica: “not no-one, not everyone”
 
+A web é uma imensidão de software, alguns muito conhecidos, outros nem tanto.
+
+Vamos analisar indicações de sites enviadas por colegas e descobrir **novidades** (ou não!).
+
+> Antes de avançar, siga as instruções da professora para acessar uma "sala virtual" de comunicação com a turma.
+
+
+## Conheça
+
+Estas são indicações de sites feitas por colegas que preencheram o formulário até ontem à noite.
+
+
+Quais você conhece?
+
+1. https://developer.mozilla.org/pt-BR/
+
+    [(sim)] Sim
+    [(nao)] Não
+
+
+2. https://sci-hub.se/
+
+    [(sim)] Sim
+    [(nao)] Não
+
+
+3. http://roblox.com
+
+    [(sim)] Sim
+    [(nao)] Não
+
+
+4. https://www.dndbeyond.com/
+
+    [(sim)] Sim
+    [(nao)] Não
+
+
+5. https://www.atacadao.com.br/folhetos
+
+    [(sim)] Sim
+    [(nao)] Não
+
+
+6. http://speedtest.net
+
+    [(sim)] Sim
+    [(nao)] Não
+
+
+7. https://www.notion.so/
+
+    [(sim)] Sim
+    [(nao)] Não
+
+
+8. http://pizza.com
+
+    [(sim)] Sim
+    [(nao)] Não
+
+
+9. https://www.centauro.com.br/
+
+    [(sim)] Sim
+    [(nao)] Não
+
+
+10. http://www.metacritic.com
+
+    [(sim)] Sim
+    [(nao)] Não
+
+
+11. https://www.geekhunter.com.br/
+
+    [(sim)] Sim
+    [(nao)] Não
+
+
+12. https://www.bancointer.com.br/
+
+    [(sim)] Sim
+    [(nao)] Não
+
+
+13. https://docs.unity3d.com
+
+    [(sim)] Sim
+    [(nao)] Não
+
+
+14. https://lolesports.com/
+
+    [(sim)] Sim
+    [(nao)] Não
+
+
+
+
+
+
 
 
 ## Indique
 
-Indique a URL de um site que você conhece e acredita que alguém mais da turma conheça, mas não toda a turma.
+Indique a URL de um site que você conhece e acredita que **alguém mais** da turma conheça, **mas não toda a turma**.
 
 
-
-    [[___]]
-<script>
-  let input = encodeURIComponent(`@input`.trim())
-  send.lia("Adicionando...", [], false)
-  fetch("https://script.google.com/macros/s/AKfycbzVnYewBduUclZlt6uchNsxQI-kOhGvX8QGvoQQCf9tfWtdNxgRQkX9YquXjMszf763LQ/exec?action=postSite&url=" + input)
-  .then((response) => response.json())
-  .then((json) => send.lia(json.message, [], false));
-
-</script>
-
-## Indique mais
 
 
     [[___   ___   ___   ___]]
 
-## Visualize
-
-
-
-
- <script>
-    let mylist = ''
-    fetch('https://script.google.com/macros/s/AKfycbzVnYewBduUclZlt6uchNsxQI-kOhGvX8QGvoQQCf9tfWtdNxgRQkX9YquXjMszf763LQ/exec?action=getSites')
-      .then(response => response.json())
-      .then(data => data.objects.forEach(note => { 
-        mylist += "- " + `${note.url}` + "\n"
-        send.liascript(mylist) // this shouldn't be here
-        }))        
-    
-    "Loading..."
-</script>
-
-
-## Conheça (dynamic)
-
-
-
- <script>
-    let mylist = ''
-    fetch('https://script.google.com/macros/s/AKfycbzVnYewBduUclZlt6uchNsxQI-kOhGvX8QGvoQQCf9tfWtdNxgRQkX9YquXjMszf763LQ/exec?action=getSites')
-      .then(response => response.json())
-      .then(data => data.objects.forEach(note => { 
-        mylist += "Conhece  " + `${note.url}` + "?\n\n    [(sim)] Sim\n    [(nao)] Não\n\n"
-        send.liascript(mylist,[],false) // this shouldn't be here
-        }))        
-    
-    "Loading..."
-</script>
-
-
-
-
-
-
-
-
-## Conheça (static)
-
-
-
-
-1. Conhece http://www.ufsm.br ?
-
-    [(sim)] Sim
-    [(nao)] Não
-
-
-
-
-2. Conhece http://www.ufsm.br ?
-
-    [(sim)] Sim
-    [(nao)] Não
 
 
 
