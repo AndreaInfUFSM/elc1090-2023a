@@ -18,6 +18,7 @@ translation: English  translations/English.md
 
 <!--
 liascript-devserver --input README.md --port 3001 --live
+https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/01/README.md
 -->
 
 # Dinâmica: “not no-one, not everyone”
@@ -60,30 +61,48 @@ Indique a URL de um site que você conhece e acredita que alguém mais da turma 
 </script>
 
 
+## Conheça (dynamic)
 
 
-## Conheça
+
+ <script>
+    let mylist = ''
+    fetch('https://script.google.com/macros/s/AKfycbzVnYewBduUclZlt6uchNsxQI-kOhGvX8QGvoQQCf9tfWtdNxgRQkX9YquXjMszf763LQ/exec?action=getSites')
+      .then(response => response.json())
+      .then(data => data.objects.forEach(note => { 
+        mylist += "Conhece  " + `${note.url}` + "?\n\n    [(sim)] Sim\n    [(nao)] Não\n\n"
+        send.liascript(mylist,[],false) // this shouldn't be here
+        }))        
+    
+    "Loading..."
+</script>
+
+
+
+
+
+
+
+
+## Conheça (static)
 
 
 
 
 1. Conhece http://www.ufsm.br ?
 
-    [(1)] Sim
-    [(2)] Não
+    [(sim)] Sim
+    [(nao)] Não
 
 
 
 
 2. Conhece http://www.ufsm.br ?
 
-    [(1)] Sim
-    [(2)] Não
+    [(sim)] Sim
+    [(nao)] Não
 
 
 
 
-3. Conhece http://www.ufsm.br ?
 
-    [(1)] Sim
-    [(2)] Não        
