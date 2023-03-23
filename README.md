@@ -43,7 +43,7 @@
 <td>21/03/2023</td>
 <td>Ter</td>
 <td><ul>
-<li>Dinâmica de acolhimento da turma.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/01/README.md">Dinâmica de acolhimento da turma.</a></li>
 <li> 
 Apresentação da disciplina e do plano de ensino.</li>
 </ul></td>
@@ -56,7 +56,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td><ul>
 <li>Unidades 1, 2 e 3: protocolos Web, linguagens HTML e CSS.</li>
 <li>
-Projeto: desenvolvimento de site estático.</li>
+<a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/02/README.md">Projeto: desenvolvimento de site estático.</a></li>
 </ul></td>
 </tr>
 
