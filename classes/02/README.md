@@ -151,6 +151,7 @@ Será que são sites estáticos?
 Será que são sites estáticos?
 
 - https://irrigaglobal.com/br/
+- https://cowmed.com.br/
 - https://www.drakkar.com.br/
 - https://agrimec.com.br/
 
