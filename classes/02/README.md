@@ -434,96 +434,83 @@ Mais em:
 
 # Produções 
 
-> **Pull requests!** Produções da turma neste desafio: projetos e dicas compartilhadas.
+> A seguir... Produções da turma neste desafio: projetos e dicas compartilhadas.
 
-## Projetos
+## Adicione
 
-                 {{1}}
-************************************************
+> Clique abaixo para criar seu repositório de entrega:
 
-- Dev: seu nome
-- Cliente: nome de colega
-- Título: uma linha descrevendo o projeto
-- Tech: tecnologias usadas
-- Código: repo no GitHub Classroom
-- Entrega: url do site hospedado
+https://classroom.github.com/a/tbkNUqfY
 
-************************************************
+> Preencha este formulário para adicionar seu projeto na lista:
 
 
-                 {{2}}
-************************************************
+<form id="form5">
+      <label for="developer">Seu nome:</label><br>
+      <input class="lia-input lia-quiz__input" name="developer" type="text" required> <br>
+      <label for="client">Cliente:</label><br>
+      <input class="lia-input lia-quiz__input" name="client" type="text" placeholder="Nome de colega..." required> <br>
+      <label for="project">Nome do projeto:</label><br>
+      <input class="lia-input lia-quiz__input" name="project" type="text" placeholder="Por exemplo: Portfolio pessoal, Landing page, etc..." required> <br>
+      <label for="tech">Tecnologias escolhidas:</label><br>
+      <input class="lia-input lia-quiz__input" name="tech" type="text" placeholder="HTML, CSS, Bootstrap, templates, etc." required> <br>
+      <label for="github">Repositório de entrega no GitHub:</label><br>
+      <input class="lia-input lia-quiz__input" name="github" type="text" placeholder="Crie seu repositório no link acima antes de preencher" required> <br>
+      <label for="deploy">Plataforma de hospedagem escolhida:</label><br>
+      <input class="lia-input lia-quiz__input" name="deploy" placeholder="Indique a que mais interessa ou deixe em branco caso não saiba ainda" type="text"> <br>
 
-- Dev: seu nome
-- Cliente: nome de colega
-- Título: uma linha descrevendo o projeto
-- Tech: tecnologias usadas
-- Código: repo no GitHub Classroom
-- Entrega: url do site hospedado
+      <button class="lia-btn lia-btn--outline" type="submit">Submit</button>
+   </form>
+   <script>
+      (function () {
+         form5.addEventListener('submit', function (e) {
+            // Prevent default behavior
+            e.preventDefault();
+            // Create new FormData object
+            const formData = new FormData(form5);
+            // Convert formData object to URL-encoded string
+            const payload = new URLSearchParams(formData);
+            // Post the payload using Fetch
+            send.lia("Adicionando...", false)
+            //send.lia("Adicionando...", [], false)
+            fetch("https://script.google.com/macros/s/AKfycbzVnYewBduUclZlt6uchNsxQI-kOhGvX8QGvoQQCf9tfWtdNxgRQkX9YquXjMszf763LQ/exec?action=postProject1&" + payload)
+               .then((response) => response.json())
+               .then((json) => send.lia(json.message, false))         
+            // const payload = new URLSearchParams(formData);
+            // // Post the payload using Fetch
+            // fetch('https://script.google.com/macros/s/AKfycbzVnYewBduUclZlt6uchNsxQI-kOhGvX8QGvoQQCf9tfWtdNxgRQkX9YquXjMszf763LQ/exec?action=postSite&url=" + payload)
+            //    .then(res => res.json())
+            //    .then((json) => send.lia(json.message, [], false))
+         })
+      })()
+   </script>
 
-************************************************
+## Em andamento
 
-                 {{3}}
-************************************************
+> Lista de projetos em andamento (seja paciente, a carga pode demorar alguns segundos)
 
-- Dev: seu nome
-- Cliente: nome de colega
-- Título: uma linha descrevendo o projeto
-- Tech: tecnologias usadas
-- Código: repo no GitHub Classroom
-- Entrega: url do site hospedado
-
-************************************************
-
-                 {{4}}
-************************************************
-
-- Dev: seu nome
-- Cliente: nome de colega
-- Título: uma linha descrevendo o projeto
-- Tech: tecnologias usadas
-- Código: repo no GitHub Classroom
-- Entrega: url do site hospedado
-
-************************************************
-
-                 {{5}}
-************************************************
-
-- Dev: seu nome
-- Cliente: nome de colega
-- Título: uma linha descrevendo o projeto
-- Tech: tecnologias usadas
-- Código: repo no GitHub Classroom
-- Entrega: url do site hospedado
-
-************************************************
-
-                 {{6}}
-************************************************
-
-- Dev: seu nome
-- Cliente: nome de colega
-- Título: uma linha descrevendo o projeto
-- Tech: tecnologias usadas
-- Código: repo no GitHub Classroom
-- Entrega: url do site hospedado
-
-************************************************
-
-                 {{7}}
-************************************************
-
-- Dev: seu nome
-- Cliente: nome de colega
-- Título: uma linha descrevendo o projeto
-- Tech: tecnologias usadas
-- Código: repo no GitHub Classroom
-- Entrega: url do site hospedado
-
-************************************************
+ <script>
+    let mylist = ''
+    fetch('https://script.google.com/macros/s/AKfycbzVnYewBduUclZlt6uchNsxQI-kOhGvX8QGvoQQCf9tfWtdNxgRQkX9YquXjMszf763LQ/exec?action=getProjects1')
+      .then(response => response.json())
+      .then(data => data.objects.forEach(project => { 
+        mylist += "- " + "**Developer: " + `${project.developer}` + "**\n\n" + 
+                  "  " + "Cliente: " + `${project.client}` + "\n\n" + 
+                  "  " + "Projeto: " + `${project.project}` + "\n\n" +
+                  "  " + "Tecnologias: " + `${project.tech}` + "\n\n" +
+                  "  " + "Repositório: " + `${project.github}` + "\n\n" +
+                  "  " + "Hospedagem: " + `${project.deploy}` + "\n\n"
+        send.liascript(mylist) // this shouldn't be here
+        }))        
+    
+    "Loading..."
+</script>
 
 ## Dev Dicas
+
+> Edite este arquivo no GitHub: https://github.com/AndreaInfUFSM/elc1090-2023a/blob/master/classes/02/README.md (linguagem: Markdown)
+
+> Adicione dicas, crie um pull request e conquiste **pontos de participação**!
 
 - Nome:
 - Dica:
