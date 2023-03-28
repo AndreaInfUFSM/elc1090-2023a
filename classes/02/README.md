@@ -35,7 +35,11 @@ Cliente
 Recursos
 
 - Básico: HTML, CSS
-- Design: Templates, templates, templates! Exemplo: https://templatemag.com/bootstrap-templates/
+- Design: Templates, templates, templates! 
+
+  - https://bootstrapmade.com/
+  - https://www.w3schools.com/bootstrap/bootstrap_templates.asp
+  - Faça sua própria busca, pois sempre surgem novos sites
 - Opcionais: Bootstrap, geradores de sites estáticos
 - Proibido: plataformas no-code (Wix, Google Sites, etc.), CMS (Wordpress, Joomla, etc.)
 
