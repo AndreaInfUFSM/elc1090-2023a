@@ -66,7 +66,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Ter</td>
 <td><ul>
 <li>
-<a href="https://liascript.github.io/nightly/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/02/README.md">Projeto: desenvolvimento de site estático.</a></li>
+<a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/02/README.md">Projeto: desenvolvimento de site estático.</a></li>
 </ul></td>
 </tr>
 
@@ -75,7 +75,10 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>30/03/2023</td>
 <td>Qui</td>
 <td><ul>
-<li>Projeto: desenvolvimento de site estático.</li>
+<li>
+<a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/04/README.md">Desafios e brindes (!?).</a></li>
+<li>
+<a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/02/README.md">Projeto: desenvolvimento de site estático.</a></li>
 </ul></td>
 </tr>
 
