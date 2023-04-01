@@ -438,7 +438,7 @@ Mais em:
 
 # Produções 
 
-> A seguir... Produções da turma neste desafio: projetos e dicas compartilhadas.
+> A seguir... Produções da turma neste desafio!
 
 ## Adicione
 
@@ -509,6 +509,19 @@ https://classroom.github.com/a/tbkNUqfY
     
     "Loading..."
 </script>
+
+
+## Entrega
+
+
+1. Caso ainda não tenha criado seu repositório de entrega, clique aqui para fazer isso: https://classroom.github.com/a/tbkNUqfY
+
+2. Adicione ao seu repositório este arquivo https://github.com/AndreaInfUFSM/elc1090-2023a/blob/master/classes/02/entrega/README.md preenchido. Siga as instruções que constam no próprio arquivo.
+
+3. Prepare-se para uma apresentação do projeto com duração de 3 a 5 minutos, focando nos **bastidores** que você vai preencher no seu README.md.
+
+4. Entrega do arquivo README.md até o final da segunda-feira, 03/04. Ajustes (pequenos) no projeto permitidos até o horário da aula de terça.
+
 
 ## Dev Dicas
 
