@@ -87,7 +87,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>04/04/2023</td>
 <td>Ter</td>
 <td><ul>
-<li>Apresentação de site estático.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/05/README.md">Apresentação de site estático.</a></li>
 </ul></td>
 </tr>
 
