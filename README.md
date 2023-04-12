@@ -97,7 +97,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Qui</td>
 <td><ul>
 <li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
-<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/06/README.md">Projeto: desenvolvimento de aplicação com API web pública.</a></li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/06/README.md">Rumo ao segundo projeto: aplicações web dinâmcias</a></li>
 
 </ul></td>
 </tr>
@@ -108,8 +108,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Ter</td>
 <td><ul>
 <li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
-<li>
-Projeto: desenvolvimento de aplicação com API web pública.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/06/README.md#12">Aquecimento para o segundo projeto: GitHub API e DOM Manipulation.</a></li>
 </ul></td>
 </tr>
 
