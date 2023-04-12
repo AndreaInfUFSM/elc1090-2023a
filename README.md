@@ -118,8 +118,8 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Qui</td>
 <td><ul>
 <li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
-<li>
-Projeto: desenvolvimento de aplicação com API web pública.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/08/README.md#12">Projeto: desenvolvimento de aplicação com API web pública.</a></li>
+
 </ul></td>
 </tr>
 
