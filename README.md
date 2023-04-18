@@ -129,8 +129,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Ter</td>
 <td><ul>
 <li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
-<li>
-Projeto: desenvolvimento de aplicação com API web pública.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/08/README.md">Projeto: desenvolvimento de aplicação com API web pública.</a></li>
 </ul></td>
 </tr>
 
@@ -139,7 +138,8 @@ Projeto: desenvolvimento de aplicação com API web pública.</li>
 <td>20/04/2023</td>
 <td>Qui</td>
 <td><ul>
-<li>Apresentação de aplicação com API web pública.</li>
+<li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/08/README.md">Projeto: desenvolvimento de aplicação com API web pública.</a> (atividade remota)</li>
 </ul></td>
 </tr>
 
@@ -148,9 +148,8 @@ Projeto: desenvolvimento de aplicação com API web pública.</li>
 <td>25/04/2023</td>
 <td>Ter</td>
 <td><ul>
-<li>Unidade 5: servidor e banco de dados.</li>
-<li>
-Projeto: desenvolvimento de aplicação com acesso a dados privados.</li>
+<li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/08/README.md">Projeto: desenvolvimento de aplicação com API web pública.</a></li>
 </ul></td>
 </tr>
 
@@ -159,9 +158,8 @@ Projeto: desenvolvimento de aplicação com acesso a dados privados.</li>
 <td>27/04/2023</td>
 <td>Qui</td>
 <td><ul>
-<li>Unidade 5: servidor e banco de dados.</li>
-<li>
-Projeto: desenvolvimento de aplicação com acesso a dados privados.</li>
+<li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/08/README.md">Projeto: desenvolvimento de aplicação com API web pública.</a> (atividade remota)</li>
 </ul></td>
 </tr>
 
@@ -170,9 +168,7 @@ Projeto: desenvolvimento de aplicação com acesso a dados privados.</li>
 <td>02/05/2023</td>
 <td>Ter</td>
 <td><ul>
-<li>Unidade 5: servidor e banco de dados.</li>
-<li>
-Projeto: desenvolvimento de aplicação com acesso a dados privados.</li>
+<li>Apresentação de aplicação com API web pública.</li>
 </ul></td>
 </tr>
 
