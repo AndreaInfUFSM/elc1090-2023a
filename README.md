@@ -130,6 +130,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td><ul>
 <li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
 <li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/08/README.md">Projeto: desenvolvimento de aplicação com API web pública.</a></li>
+<li>Vejam só! <a href="https://worldcreativityday.com/brazil#faca-parte">World Creativity Day em Santa Maria!</a></li>
 </ul></td>
 </tr>
 
