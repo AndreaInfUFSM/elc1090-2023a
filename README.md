@@ -178,9 +178,8 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>04/05/2023</td>
 <td>Qui</td>
 <td><ul>
-<li>Unidade 5: servidor e banco de dados.</li>
-<li>
-Projeto: desenvolvimento de aplicação com acesso a dados privados.</li>
+<li>Discussão sobre o segundo projeto e definições sobre o terceiro projeto.</li>
+
 </ul></td>
 </tr>
 
@@ -191,7 +190,7 @@ Projeto: desenvolvimento de aplicação com acesso a dados privados.</li>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
 <li>
-Projeto: desenvolvimento de aplicação com acesso a dados privados.</li>
+<a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/15/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</a></li>
 </ul></td>
 </tr>
 
@@ -200,7 +199,8 @@ Projeto: desenvolvimento de aplicação com acesso a dados privados.</li>
 <td>11/05/2023</td>
 <td>Qui</td>
 <td><ul>
-<li>Apresentação de aplicação com acesso a dados privados.</li>
+<li>
+<a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/15/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</a> (atividade remota)</li>
 </ul></td>
 </tr>
 
@@ -209,7 +209,8 @@ Projeto: desenvolvimento de aplicação com acesso a dados privados.</li>
 <td>16/05/2023</td>
 <td>Ter</td>
 <td><ul>
-<li>Rodada exploratória de sistemas web.</li>
+<li>
+<a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/15/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</a></li>
 </ul></td>
 </tr>
 
@@ -218,7 +219,8 @@ Projeto: desenvolvimento de aplicação com acesso a dados privados.</li>
 <td>18/05/2023</td>
 <td>Qui</td>
 <td><ul>
-<li>Rodada exploratória de sistemas web.</li>
+<li>
+<a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/15/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</a> (atividade remota)</li>
 </ul></td>
 </tr>
 
@@ -227,7 +229,8 @@ Projeto: desenvolvimento de aplicação com acesso a dados privados.</li>
 <td>23/05/2023</td>
 <td>Ter</td>
 <td><ul>
-<li>Desenvolvimento de projeto final.</li>
+<li>
+<a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/15/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</a></li>
 </ul></td>
 </tr>
 
@@ -236,7 +239,8 @@ Projeto: desenvolvimento de aplicação com acesso a dados privados.</li>
 <td>25/05/2023</td>
 <td>Qui</td>
 <td><ul>
-<li>Desenvolvimento de projeto final.</li>
+<li>
+Apresentação de projeto com backend e persistência de dados em servidor.</li>
 </ul></td>
 </tr>
 
@@ -245,7 +249,8 @@ Projeto: desenvolvimento de aplicação com acesso a dados privados.</li>
 <td>30/05/2023</td>
 <td>Ter</td>
 <td><ul>
-<li>Desenvolvimento de projeto final.</li>
+<li>
+Apresentação de projeto com backend e persistência de dados em servidor.</li>
 </ul></td>
 </tr>
 
