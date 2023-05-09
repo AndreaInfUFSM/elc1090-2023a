@@ -66,7 +66,7 @@ Se você preferir desenvolvê-lo individualmente, tudo bem!
 
 ## Submissão de proposta
 
-- Na aula do dia 09/05, Cada dupla vai preencher sua proposta no formulário que será disponibilizado
+- Na aula do dia 09/05, cada dupla vai criar seu repositório de entrega e preencher sua proposta no README.md
 - A proposta será validada pela professora
 
 
