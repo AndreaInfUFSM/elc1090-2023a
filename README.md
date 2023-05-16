@@ -211,6 +211,8 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td><ul>
 <li>
 <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/15/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</a></li>
+<li>
+<a href="https://64635a95b9a391797a76bd46--cheerful-pastelito-fe3ac8.netlify.app/">Galeria de trabalhos: segundo projeto.</a></li>  
 </ul></td>
 </tr>
 
