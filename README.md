@@ -242,7 +242,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Qui</td>
 <td><ul>
 <li>
-Apresentação de projeto com backend e persistência de dados em servidor.</li>
+Primeira rodada de apresentação de projeto com backend e persistência de dados em servidor.</li>
 </ul></td>
 </tr>
 
@@ -252,7 +252,7 @@ Apresentação de projeto com backend e persistência de dados em servidor.</li>
 <td>Ter</td>
 <td><ul>
 <li>
-Apresentação de projeto com backend e persistência de dados em servidor.</li>
+Segunda rodada de apresentação de projeto com backend e persistência de dados em servidor.</li>
 </ul></td>
 </tr>
 
@@ -261,7 +261,8 @@ Apresentação de projeto com backend e persistência de dados em servidor.</li>
 <td>01/06/2023</td>
 <td>Qui</td>
 <td><ul>
-<li>Desenvolvimento de projeto final.</li>
+<li>
+Terceira rodada de apresentação de projeto com backend e persistência de dados em servidor.</li>
 </ul></td>
 </tr>
 
@@ -270,7 +271,7 @@ Apresentação de projeto com backend e persistência de dados em servidor.</li>
 <td>06/06/2023</td>
 <td>Ter</td>
 <td><ul>
-<li>Desenvolvimento de projeto final.</li>
+<li>Discussão sobre os projetos anteriores e definições sobre o projeto final.</li>
 </ul></td>
 </tr>
 
@@ -288,7 +289,7 @@ Apresentação de projeto com backend e persistência de dados em servidor.</li>
 <td>13/06/2023</td>
 <td>Ter</td>
 <td><ul>
-<li>Desenvolvimento de projeto final.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/24/README.md">Validação de propostas e desenvolvimento do projeto final.</a></li>
 </ul></td>
 </tr>
 
@@ -297,7 +298,7 @@ Apresentação de projeto com backend e persistência de dados em servidor.</li>
 <td>15/06/2023</td>
 <td>Qui</td>
 <td><ul>
-<li>Desenvolvimento de projeto final.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/15/README.md">Desenvolvimento de projeto final.</a> (atividade remota)</li>
 </ul></td>
 </tr>
 
@@ -306,7 +307,7 @@ Apresentação de projeto com backend e persistência de dados em servidor.</li>
 <td>20/06/2023</td>
 <td>Ter</td>
 <td><ul>
-<li>Desenvolvimento de projeto final.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/15/README.md">Desenvolvimento de projeto final.</a> </li>
 </ul></td>
 </tr>
 
@@ -315,7 +316,7 @@ Apresentação de projeto com backend e persistência de dados em servidor.</li>
 <td>22/06/2023</td>
 <td>Qui</td>
 <td><ul>
-<li>Desenvolvimento de projeto final.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/15/README.md">Desenvolvimento de projeto final.</a> (atividade remota)</li>
 </ul></td>
 </tr>
 
@@ -324,7 +325,7 @@ Apresentação de projeto com backend e persistência de dados em servidor.</li>
 <td>27/06/2023</td>
 <td>Ter</td>
 <td><ul>
-<li>Desenvolvimento de projeto final.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/15/README.md">Desenvolvimento de projeto final.</a> </li>
 </ul></td>
 </tr>
 
@@ -333,7 +334,7 @@ Apresentação de projeto com backend e persistência de dados em servidor.</li>
 <td>29/06/2023</td>
 <td>Qui</td>
 <td><ul>
-<li>Apresentações finais de portfolios.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/15/README.md">Desenvolvimento de projeto final.</a> (atividade remota)</li>
 </ul></td>
 </tr>
 
@@ -342,11 +343,18 @@ Apresentação de projeto com backend e persistência de dados em servidor.</li>
 <td>04/07/2023</td>
 <td>Ter</td>
 <td><ul>
-<li>Apresentações finais de portfolios.</li>
+<li>Apresentações dos projetos finais.</li>
 </ul></td>
 </tr>
 
-
+<tr>
+<td align="right">31</td>
+<td>06/07/2023</td>
+<td>Qui</td>
+<td><ul>
+<li>Apresentações dos projetos finais.</li>
+</ul></td>
+</tr>
 
 
 
