@@ -298,7 +298,7 @@ Terceira rodada de apresentação de projeto com backend e persistência de dado
 <td>15/06/2023</td>
 <td>Qui</td>
 <td><ul>
-<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/15/README.md">Desenvolvimento de projeto final.</a> (atividade remota)</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/24/README.md">Desenvolvimento de projeto final.</a> (atividade remota)</li>
 </ul></td>
 </tr>
 
@@ -307,7 +307,7 @@ Terceira rodada de apresentação de projeto com backend e persistência de dado
 <td>20/06/2023</td>
 <td>Ter</td>
 <td><ul>
-<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/15/README.md">Desenvolvimento de projeto final.</a> </li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/24/README.md">Desenvolvimento de projeto final.</a> </li>
 </ul></td>
 </tr>
 
@@ -316,7 +316,7 @@ Terceira rodada de apresentação de projeto com backend e persistência de dado
 <td>22/06/2023</td>
 <td>Qui</td>
 <td><ul>
-<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/15/README.md">Desenvolvimento de projeto final.</a> (atividade remota)</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/24/README.md">Desenvolvimento de projeto final.</a> (atividade remota)</li>
 </ul></td>
 </tr>
 
@@ -325,7 +325,7 @@ Terceira rodada de apresentação de projeto com backend e persistência de dado
 <td>27/06/2023</td>
 <td>Ter</td>
 <td><ul>
-<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/15/README.md">Desenvolvimento de projeto final.</a> </li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/24/README.md">Desenvolvimento de projeto final.</a> </li>
 </ul></td>
 </tr>
 
@@ -334,7 +334,7 @@ Terceira rodada de apresentação de projeto com backend e persistência de dado
 <td>29/06/2023</td>
 <td>Qui</td>
 <td><ul>
-<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/15/README.md">Desenvolvimento de projeto final.</a> (atividade remota)</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/24/README.md">Desenvolvimento de projeto final.</a> (atividade remota)</li>
 </ul></td>
 </tr>
 
