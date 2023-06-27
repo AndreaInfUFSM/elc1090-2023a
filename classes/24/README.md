@@ -125,7 +125,7 @@ Local: laboratório (mesmo de sempre)
 | https://github.com/elc1090/project4-gilsongarcia     | Gilson     | Gabriele     |
 | https://github.com/elc1090/project4-guilhermegarcia     | Guilherme     | Roberto     |
 | https://github.com/elc1090/project4-lucasziquinatti     | Lucas     | Diovani     |
-| https://github.com/elc1090/project4-luanafoliveira     | Luana     | Bruno     |
+| Criar repo project4 linkado a project3     | Bruno     | Luana     | 
 | Aguardando     | Daniel     | Wagner     |
 
 (*) Em dupla?
@@ -143,6 +143,6 @@ Local: Auditório do Jardim Botânico
 | https://github.com/elc1090/project4-gsquevedo     | Gabriele     | Gilson     | 
 | https://github.com/elc1090/project4-robertomahl     | Roberto     | Guilherme     | 
 | Aguardando     | Diovani     | Lucas     | 
-| Criar repo project4 linkado a project3     | Bruno     | Luana     | 
+| https://github.com/elc1090/project4-luanafoliveira     | Luana     | Bruno     |
 | Aguardando     | Wagner     | Daniel     | 
 
