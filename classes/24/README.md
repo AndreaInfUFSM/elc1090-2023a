@@ -105,3 +105,44 @@ Outras possibilidades também podem ser validadas, se houver uma clara motivaç�
 - Entrega: 02/07
 - Testes: 03/07
 - Apresentação: 04/07 e 06/07
+
+
+
+## Cronograma de apresentações
+
+
+
+### Dia 04/07/23
+
+Local: laboratório (mesmo de sempre)
+
+<!-- data-type="none" -->
+| Projeto    | Dev(s)     | Tester(s)   |
+| :--------- | :--------- | :--------- |
+| https://github.com/elc1090/project4-leo-ded-master     | Leonardo V. e Felipe C. (*)    | Andriza e Júlio     |
+| https://github.com/elc1090/project4-gg-sports     | Caetano e Gustavo     | Leonardo K. e Felipe A.     |
+| Criar repo project4 linkado a project3     | Ana Clara e Marcos (*)     | Emilio e Miguel     |
+| https://github.com/elc1090/project4-gilsongarcia     | Gilson     | Gabriele     |
+| https://github.com/elc1090/project4-guilhermegarcia     | Guilherme     | Roberto     |
+| https://github.com/elc1090/project4-lucasziquinatti     | Lucas     | Diovani     |
+| https://github.com/elc1090/project4-luanafoliveira     | Luana     | Bruno     |
+| Aguardando     | Daniel     | Wagner     |
+
+(*) Em dupla?
+
+### Dia 06/07/23
+
+Local: Auditório do Jardim Botânico
+
+<!-- data-type="none" -->
+| Projeto    | Dev(s)     | Tester(s)   |
+| :--------- | :--------- | :--------- |
+| Criar repo project4 linkado a project3     | Andriza e Júlio     | Leonardo V. e Felipe C.     | 
+| https://github.com/elc1090/project4-jardim-botanico-leo-e-felipe     | Leonardo K. e Felipe A.     | Caetano e Gustavo     | 
+| https://github.com/elc1090/project4-jardim-botanico-miguel-e-emilio     | Emilio e Miguel     | Ana Clara e Marcos     | 
+| https://github.com/elc1090/project4-gsquevedo     | Gabriele     | Gilson     | 
+| https://github.com/elc1090/project4-robertomahl     | Roberto     | Guilherme     | 
+| Aguardando     | Diovani     | Lucas     | 
+| Criar repo project4 linkado a project3     | Bruno     | Luana     | 
+| Aguardando     | Wagner     | Daniel     | 
+
