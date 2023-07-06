@@ -121,14 +121,13 @@ Local: laboratório (mesmo de sempre)
 | :--------- | :--------- | :--------- |
 | https://github.com/elc1090/project4-leo-ded-master     | Leonardo V. e Felipe C. (*)    | Andriza e Júlio     |
 | https://github.com/elc1090/project4-gg-sports     | Caetano e Gustavo     | Leonardo K. e Felipe A.     |
-| Criar repo project4 linkado a project3     | Ana Clara e Marcos (*)     | Emilio e Miguel     |
+| https://github.com/elc1090/project4-urotasks-marcos-ana    | Ana Clara e Marcos      | Emilio e Miguel     |
 | https://github.com/elc1090/project4-gilsongarcia     | Gilson     | Gabriele     |
 | https://github.com/elc1090/project4-guilhermegarcia     | Guilherme     | Roberto     |
 | https://github.com/elc1090/project4-lucasziquinatti     | Lucas     | Diovani     |
-| Criar repo project4 linkado a project3     | Bruno     | Luana     | 
-| Aguardando     | Daniel     | Wagner     |
+| https://github.com/elc1090/project4-bruno-projeto4     | Bruno     | Luana     | 
+| https://github.com/elc1090/project4-w4tto     | Daniel     | Wagner     |
 
-(*) Em dupla?
 
 ### Dia 06/07/23
 
@@ -137,12 +136,12 @@ Local: Auditório do Jardim Botânico
 <!-- data-type="none" -->
 | Projeto    | Dev(s)     | Tester(s)   |
 | :--------- | :--------- | :--------- |
-| Criar repo project4 linkado a project3     | Andriza e Júlio     | Leonardo V. e Felipe C.     | 
+| https://github.com/elc1090/project4-my-read-list-andriza-e-julio     | Andriza e Júlio     | Leonardo V. e Felipe C.     | 
 | https://github.com/elc1090/project4-jardim-botanico-leo-e-felipe     | Leonardo K. e Felipe A.     | Caetano e Gustavo     | 
 | https://github.com/elc1090/project4-jardim-botanico-miguel-e-emilio     | Emilio e Miguel     | Ana Clara e Marcos     | 
 | https://github.com/elc1090/project4-gsquevedo     | Gabriele     | Gilson     | 
 | https://github.com/elc1090/project4-robertomahl     | Roberto     | Guilherme     | 
-| Aguardando     | Diovani     | Lucas     | 
+| https://github.com/elc1090/project4-facco     | Diovani     | Lucas     | 
 | https://github.com/elc1090/project4-luanafoliveira     | Luana     | Bruno     |
-| Aguardando     | Wagner     | Daniel     | 
+
 
