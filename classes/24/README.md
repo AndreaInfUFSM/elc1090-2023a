@@ -137,11 +137,13 @@ Local: Auditório do Jardim Botânico
 | Projeto    | Dev(s)     | Tester(s)   |
 | :--------- | :--------- | :--------- |
 | https://github.com/elc1090/project4-my-read-list-andriza-e-julio     | Andriza e Júlio     | Leonardo V. e Felipe C.     | 
+| https://github.com/elc1090/project4-luanafoliveira     | Luana     | Bruno     |
 | https://github.com/elc1090/project4-jardim-botanico-leo-e-felipe     | Leonardo K. e Felipe A.     | Caetano e Gustavo     | 
+| https://github.com/elc1090/project4-facco     | Diovani     | Lucas     | 
 | https://github.com/elc1090/project4-jardim-botanico-miguel-e-emilio     | Emilio e Miguel     | Ana Clara e Marcos     | 
 | https://github.com/elc1090/project4-gsquevedo     | Gabriele     | Gilson     | 
 | https://github.com/elc1090/project4-robertomahl     | Roberto     | Guilherme     | 
-| https://github.com/elc1090/project4-facco     | Diovani     | Lucas     | 
-| https://github.com/elc1090/project4-luanafoliveira     | Luana     | Bruno     |
+
+
 
 
